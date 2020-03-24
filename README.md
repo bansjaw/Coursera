@@ -1,2 +1,2 @@
 # hellokittyrepository
-repo for coursera tasks
+repository for coursera tasks
